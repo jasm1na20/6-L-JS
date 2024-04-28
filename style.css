@@ -1,0 +1,22 @@
+   .accordion{
+    width: 500px;
+    margin: 10px;
+
+  }
+  .ac-control{
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    list-style: none;
+  padding: 20px;
+  border: 1px solid #888;
+  }
+  .ac-content{
+  padding: 20px;
+  border: 1px solid #888;
+  border-top: 1px solid transparent;
+  }
+  .ac-titel{
+margin: 0;
+  }
+  
